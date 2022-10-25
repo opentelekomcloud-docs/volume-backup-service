@@ -26,7 +26,6 @@ You can add tags to a backup policy as well as edit and delete these tags. Tags 
          .. figure:: /_static/images/en-us_image_0152879240.png
             :alt: **Figure 1** Adding tags
 
-
             **Figure 1** Adding tags
 
       c. Click **OK**.

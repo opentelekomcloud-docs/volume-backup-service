@@ -23,7 +23,6 @@ You can edit, enable, execute, and delete backup policies.
          .. figure:: /_static/images/en-us_image_0152879311.png
             :alt: **Figure 1** Editing backup policies
 
-
             **Figure 1** Editing backup policies
 
       b. Modify the backup policy parameters. :ref:`Table 1 <en-us_topic_0112805383__table98735364165>` describes the parameters.
@@ -55,7 +54,6 @@ You can edit, enable, execute, and delete backup policies.
          .. figure:: /_static/images/en-us_image_0112807393.png
             :alt: **Figure 2** Executing a backup policy
 
-
             **Figure 2** Executing a backup policy
 
       b. Confirm the backup policy parameter information and click **OK**.
@@ -74,7 +72,6 @@ You can edit, enable, execute, and delete backup policies.
 
          .. figure:: /_static/images/en-us_image_0112807405.png
             :alt: **Figure 3** Deleting a backup policy
-
 
             **Figure 3** Deleting a backup policy
 

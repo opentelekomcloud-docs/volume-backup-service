@@ -12,7 +12,6 @@ Operation Procedure
 .. figure:: /_static/images/en-us_image_0162814404.png
    :alt: **Figure 1** Operation procedure flowchart
 
-
    **Figure 1** Operation procedure flowchart
 
 .. note::
