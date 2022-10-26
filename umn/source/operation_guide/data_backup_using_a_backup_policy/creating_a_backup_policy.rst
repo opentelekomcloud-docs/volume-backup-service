@@ -34,7 +34,6 @@ You can create a backup policy to associate all those EVS disks whose data needs
    .. figure:: /_static/images/en-us_image_0152879222.png
       :alt: **Figure 1** Creating a backup policy
 
-
       **Figure 1** Creating a backup policy
 
    .. _en-us_topic_0112805383__table98735364165:

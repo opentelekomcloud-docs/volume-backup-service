@@ -41,7 +41,6 @@ After creating a backup policy, you can associate EVS disks to the backup policy
          .. figure:: /_static/images/en-us_image_0152879230.png
             :alt: **Figure 1** Associating a disk
 
-
             **Figure 1** Associating a disk
 
          .. note::

@@ -30,7 +30,6 @@ Searching for a VBS Backup
          .. figure:: /_static/images/en-us_image_0075595478.png
             :alt: **Figure 1** My backups
 
-
             **Figure 1** My backups
 
       -  On the **Backups shared with me** page, you can see the time when the backup is shared in the **Shared** column. You can search for backups by backup name, backup ID, disk ID, or owner project ID, as shown in :ref:`Figure 2 <en-us_topic_0015667849__fig1252813127211>`. Click |image4| to search.
@@ -39,7 +38,6 @@ Searching for a VBS Backup
 
          .. figure:: /_static/images/en-us_image_0075595645.png
             :alt: **Figure 2** Backups shared with me
-
 
             **Figure 2** Backups shared with me
 
@@ -94,7 +92,6 @@ Backups whose **Source** is **CSBS** can be deleted only on the CSBS management 
 
    .. figure:: /_static/images/en-us_image_0086680618.png
       :alt: **Figure 3** Deleting a backup
-
 
       **Figure 3** Deleting a backup
 
@@ -154,7 +151,6 @@ You can add tags to a backup as well as edit and delete these tags. Tags are use
          .. figure:: /_static/images/en-us_image_0152879176.png
             :alt: **Figure 4** Adding tags
 
-
             **Figure 4** Adding tags
 
       c. Click **OK**.
@@ -208,7 +204,6 @@ Backups cannot be shared across regions. This indicates that projects sharing a 
 
       .. figure:: /_static/images/en-us_image_0152879212.png
          :alt: **Figure 5** Adding a share
-
 
          **Figure 5** Adding a share
 

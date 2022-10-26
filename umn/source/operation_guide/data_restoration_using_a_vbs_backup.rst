@@ -40,7 +40,6 @@ Only VBS backups in the **My backups** list can be used for a restoration. Those
    .. figure:: /_static/images/en-us_image_0087010200.png
       :alt: **Figure 1** Disk restoration
 
-
       **Figure 1** Disk restoration
 
 .. _en-us_topic_0015667886__section44845024152024:

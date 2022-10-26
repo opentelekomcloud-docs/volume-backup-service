@@ -31,7 +31,6 @@ Create a VBS Backup (Method 1)
    .. figure:: /_static/images/en-us_image_0152878917.png
       :alt: **Figure 1** Selecting a disk
 
-
       **Figure 1** Selecting a disk
 
    .. note::
@@ -46,7 +45,6 @@ Create a VBS Backup (Method 1)
 
    .. figure:: /_static/images/en-us_image_0152879159.png
       :alt: **Figure 2** Configuring backup schemes
-
 
       **Figure 2** Configuring backup schemes
 
@@ -128,7 +126,6 @@ Create a VBS Backup (Method 2)
    .. figure:: /_static/images/en-us_image_0152878946.png
       :alt: **Figure 3** Selecting a disk
 
-
       **Figure 3** Selecting a disk
 
    .. note::
@@ -143,7 +140,6 @@ Create a VBS Backup (Method 2)
 
    .. figure:: /_static/images/en-us_image_0152879164.png
       :alt: **Figure 4** Configuring backup schemes
-
 
       **Figure 4** Configuring backup schemes
 
