@@ -34,7 +34,7 @@ After creating a backup policy, you can associate EVS disks to the backup policy
 
       e. Optional: In the search box above the **Selected Disks** list, specify whether to search for an EVS disk by its name or ID and enter the corresponding value to search. If the EVS disk is displayed, it has been selected.
 
-      f. Confirm that the correct EVS disks are selected and click **OK** to complete the association. See :ref:`Figure 1 <en-us_topic_0112805384__fig136560051911>`.
+      f. Confirm that the correct EVS disks are selected and click **OK**. See :ref:`Figure 1 <en-us_topic_0112805384__fig136560051911>`.
 
          .. _en-us_topic_0112805384__fig136560051911:
 

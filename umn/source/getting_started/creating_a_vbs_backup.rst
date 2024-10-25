@@ -113,11 +113,11 @@ Create a VBS Backup (Method 2)
 
 #. Log in to the management console.
 
-#. Click |image5|. Under **Storage**, click **Volume Backup Service**.
+#. Click |image5|. Under **Storage**, click **Elastic Volume Service**.
 
 #. Click |image6| in the upper left corner of the management console and select a region and a project.
 
-#. Locate the row that contains the target EVS disk. Click **More** in the **Operation** column and select **Back Up**.
+#. Locate the row that contains the target EVS disk. Click **More** in the **Operation** column and select **Create Backup**.
 
 #. From the EVS disk list on the left, click |image7| to select the EVS disks you want to back up. Then they appear in the **Selected Disks** list on the right. See :ref:`Figure 3 <en-us_topic_0015667820__fig19341916182310>`. You can click |image8| in the **Operation** column to delete EVS disks that do not need to be backed up.
 
