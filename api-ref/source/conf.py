@@ -110,7 +110,7 @@ html_copy_source = False
 latex_documents = [
     ('index',
      'vbs-api-ref.tex',
-     u'Volume Backup Service - API Reference',
+    u'Volume Backup Service - API Reference',
      u'OpenTelekomCloud', 'manual'),
 ]
 
