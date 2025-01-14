@@ -7,6 +7,7 @@ Volume Backup Service (VBS) provides snapshot-based data protection service for 
    :class: container-sbv
 
    .. service_card::
+      :environment: internal
       :service_type: vbs
       :umn: This document describes basic concepts, functions, key terms, and FAQs of the Volume Backup Service (VBS) and provides instructions for quickly creating VBS backups and using VBS backups to restore data.
       :api-ref: This document describes application programming interfaces (APIs) of Volume Backup Service (VBS) and provides API parameter description and example values.
