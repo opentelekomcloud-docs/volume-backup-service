@@ -2,13 +2,13 @@
 
 .. _en-us_topic_0020237258:
 
-Querying Summary Information About VBS Backups (Native OpenStack API)
-=====================================================================
+Querying Summary Information About VBS Backups (Native OpenStack API) (Deprecated)
+==================================================================================
 
 Function
 --------
 
-This API is used to query summary information about VBS backups.
+This API is used to query summary information about VBS backups. This API has been deprecated.
 
 URI
 ---

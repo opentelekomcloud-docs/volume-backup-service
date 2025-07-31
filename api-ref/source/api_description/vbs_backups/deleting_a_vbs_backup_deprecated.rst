@@ -8,7 +8,7 @@ Deleting a VBS Backup (Deprecated)
 Function
 --------
 
-This API is used to delete a VBS backup. This API is deprecated. You are advised to use the API described in :ref:`Deleting a VBS Backup (Native OpenStack API) <en-us_topic_0049453221>` to delete a backup.
+This API is used to delete a VBS backup. This API is deprecated. You are advised to use the API described in :ref:`Deleting a VBS Backup (Native OpenStack API) (Deprecated) <en-us_topic_0049453221>` to delete a backup.
 
 URI
 ---

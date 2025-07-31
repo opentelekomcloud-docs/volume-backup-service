@@ -2,13 +2,13 @@
 
 .. _en-us_topic_0020237260:
 
-Querying Details About a VBS Backup (Native OpenStack API)
-==========================================================
+Querying Details About a VBS Backup (Native OpenStack API) (Deprecated)
+=======================================================================
 
 Function
 --------
 
-This API is used to query details about a VBS backup.
+This API is used to query details about a VBS backup. This API has been deprecated.
 
 URI
 ---
@@ -87,7 +87,7 @@ Response
    +===========+=========+==================================================================================================================================================================================================================================================================+
    | DL        | int     | **0**: non-deduplication and non-compression; **1**: deduplication and non-compression; **2**: non-deduplication and compression; **3**: deduplication and compression If this key is not specified, the value is **0** (non-deduplication and non-compression). |
    +-----------+---------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-   | VK        | string  | Encryption VK of an encrypted volume. The value is a string of 64 characters.                                                                                                                                                                                    |
+   | VK        | string  | Encryption VK of an encrypted volume. The value is 64 characters long.                                                                                                                                                                                           |
    +-----------+---------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
    | bootable  | boolean | Whether the disk is the boot disk                                                                                                                                                                                                                                |
    +-----------+---------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
