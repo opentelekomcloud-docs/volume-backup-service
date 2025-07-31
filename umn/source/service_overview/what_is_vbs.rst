@@ -2,8 +2,10 @@
 
 .. _en-us_topic_0015667828:
 
-VBS
-===
+What Is VBS?
+============
+
+This service is available only for users and projects where this service has already been used. If you are new to OTC Cloud, go to the console of the next-generation service, Cloud Backup and Recovery (CBR), which integrates Volume Backup Service (VBS).
 
 Volume Backup Service (VBS) provides snapshot-based data protection for Elastic Volume Service (EVS) disks.
 

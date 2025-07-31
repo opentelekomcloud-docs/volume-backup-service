@@ -17,7 +17,7 @@ FAQs
 -  :ref:`What Can I Do In Case of Exceptions in VBS? <en-us_topic_0046276032>`
 -  :ref:`Why Add Tags to a VBS Backup or Backup Policy? <en-us_topic_0067558642>`
 -  :ref:`Does Backup Can Be Performed Several Times a Day? <en-us_topic_0105911995>`
--  :ref:`Can a Disk Only Be Associated With One Policy? <en-us_topic_0105943829>`
+-  :ref:`Can a Disk Only Be Associated with One Policy? <en-us_topic_0105943829>`
 -  :ref:`What Are Full Backup and Incremental Backup? <en-us_topic_0126537915>`
 -  :ref:`What Are the Differences Between Backups and Snapshots? <en-us_topic_0126537916>`
 -  :ref:`Why Is the Remaining Space Not Changed After a Backup Is Deleted? <en-us_topic_0127994691>`

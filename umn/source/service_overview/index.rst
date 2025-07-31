@@ -5,7 +5,7 @@
 Service Overview
 ================
 
--  :ref:`VBS <en-us_topic_0015667828>`
+-  :ref:`What Is VBS? <en-us_topic_0015667828>`
 -  :ref:`VBS Functions <en-us_topic_0031627299>`
 -  :ref:`Related Services <en-us_topic_0015667831>`
 -  :ref:`User Permissions <en-us_topic_0071078294>`
@@ -16,7 +16,7 @@ Service Overview
    :maxdepth: 1
    :hidden: 
 
-   vbs
+   what_is_vbs
    vbs_functions
    related_services
    user_permissions

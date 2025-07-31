@@ -22,7 +22,7 @@ To query an EVS disk from a backup policy with a large number of EVS disks assoc
 
 #. In the upper right corner of the list, select a state to search for EVS disks in the state.
 
-#. (Optional) Specify whether to search for an EVS disk by its name or ID and enter the corresponding value, and click |image4| to search. See\ :ref:`Figure 1 <en-us_topic_0112805385__fig1239823815186>`.
+#. (Optional) Specify whether to search for an EVS disk by its name or ID and enter the corresponding value, and click |image4| to search. See :ref:`Figure 1 <en-us_topic_0112805385__fig1239823815186>`.
 
    .. _en-us_topic_0112805385__fig1239823815186:
 
