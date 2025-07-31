@@ -10,8 +10,6 @@ Function
 
 This API is used to create a VBS backup.
 
-If the API is successfully called, the backup task is successfully delivered. You can query the backup status by using the API for :ref:`Querying Details About a VBS Backup (Native OpenStack API) <en-us_topic_0020237260>`.
-
 URI
 ---
 

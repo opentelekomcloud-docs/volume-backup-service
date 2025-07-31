@@ -2,13 +2,13 @@
 
 .. _en-us_topic_0067142129:
 
-Restoring a Disk Using a VBS Backup (Native OpenStack API)
-==========================================================
+Restoring a Disk Using a VBS Backup (Native OpenStack API) (Deprecated)
+=======================================================================
 
 Function
 --------
 
-This API is used to restore a disk using a VBS backup.
+This API is used to restore a disk using a VBS backup. This API has been deprecated.
 
 URI
 ---

@@ -2,13 +2,13 @@
 
 .. _en-us_topic_0060614329:
 
-Creating a VBS Backup (Native OpenStack API)
-============================================
+Creating a VBS Backup (Native OpenStack API) (Deprecated)
+=========================================================
 
 Function
 --------
 
-This API is used to create a VBS backup.
+This API is used to create a VBS backup. This API has been deprecated.
 
 URI
 ---
