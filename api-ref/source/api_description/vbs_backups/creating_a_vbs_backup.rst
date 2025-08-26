@@ -5,6 +5,8 @@
 Creating a VBS Backup
 =====================
 
+This service is available only for users and projects where this service has already been used. For new users, disk backups will be created in a newly created default CBR disk vault.
+
 Function
 --------
 
