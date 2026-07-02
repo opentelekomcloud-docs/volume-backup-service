@@ -8,7 +8,7 @@ Creating a VBS Backup (Native OpenStack API) (Deprecated)
 Function
 --------
 
-This API is used to create a VBS backup. This API has been deprecated.
+This API is used to create a VBS backup. This API has been deprecated. Use :ref:`Creating a VBS Backup (Native OpenStack V3 API) <en-us_topic_0143705534>` instead.
 
 URI
 ---
