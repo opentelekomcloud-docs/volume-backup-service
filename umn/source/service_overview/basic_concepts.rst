@@ -8,7 +8,7 @@ Basic Concepts
 Backup Policies
 ---------------
 
-A backup policy, including the backup period and retention rules, can automate data backup of EVS disks. Backup policies are user specific.
+A backup policy defines the rules used to back up data. By specifying settings such as the backup period and retention rules, you can use a backup policy to automate the backup of EVS disks.
 
 .. _en-us_topic_0071076576__section1713119814918:
 
